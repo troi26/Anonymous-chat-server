@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./websocket" //gorilla websocket implementation
+	"github.com/gorilla/websocket" //gorilla websocket implementation
 	"fmt"
 	"net"
 	"net/http"
